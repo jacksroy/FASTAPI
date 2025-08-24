@@ -7,4 +7,5 @@ app=FastAPI()
 def first():
     return{
         'message':"Welcome to FastAPI for First Time"
+
     }
